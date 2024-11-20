@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Rubik+Wet+Paint&family=Spicy+Rice&family=Unlock&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Rubik+Wet+Paint&family=Spicy+Rice&family=Unlock&display=swap');
+
+body {
+    background-color: #000000;
+    margin: 0;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 9px ;
+    background: linear-gradient(50deg, #000000, #bf4e0265);
+    position: relative;
+}
+
+li{
+    list-style: none;
+    display: inline;
+    padding: 20px;
+}
+
+a{
+    text-decoration: none;
+    color: aliceblue;
+}
+
+a:hover {
+   
+    border: 3px solid red;
+    padding: 7PX;
+    border-radius: 9px;
+   
+}
+
+
+.welcome{
+    color: #bf4e0265;
+    font-family: "Rubik Wet Paint", serif;
+    font-weight: 400;
+    font-style: normal; 
+    font-size: 70PX;
+    
+}
+
+.content p {
+    color: aliceblue;
+    font-family: "Dancing Script", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+    font-size: 40px;
+}
+
+.content{
+    margin-left: 100px;
+    margin-top: 100px;
+    padding: 40px;
+    width: 900px ;
+    border-radius: 20px;
+}
+
+
+
+
+                                       
+                                       
+                                       
+                                         
+            
